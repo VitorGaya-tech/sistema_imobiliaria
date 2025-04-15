@@ -1,0 +1,3 @@
+C:/Users/Jeanl/OneDrive - Centro Universitário Facens/Facens - Engenharia da computação/Estrutura de Dados/ProjetoAC2/cmake-build-debug/CMakeFiles/ProjetoAC2.dir
+C:/Users/Jeanl/OneDrive - Centro Universitário Facens/Facens - Engenharia da computação/Estrutura de Dados/ProjetoAC2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jeanl/OneDrive - Centro Universitário Facens/Facens - Engenharia da computação/Estrutura de Dados/ProjetoAC2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
